@@ -66,3 +66,17 @@ Stack (стек) - это контейнер с элементами, орган
 | `void swap(stack& other)`             | swaps the contents                               |
 
 </details>
+
+<details>
+  <summary>Для тестирования</summary>
+<br />
+  Зайти в репозиторий
+  Ввести в командную строку ''make''
+  Чтобы посмотреть покрытие через браузер, надо открыть файл stack_coverage_report.html после использования ''make''
+</details>
+
+<details>
+  <summary>Для использования</summary>
+<br />
+  Достаточно добавить #include "s21_stack.h" в заголовок проекта, в котором собираетесь его использовать
+</details>
